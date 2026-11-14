@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://betmaanreviews.com/</loc>
+    <loc>https://betmaan.vercel.app/</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/sports-betting.html</loc>
+    <loc>https://betmaan.vercel.app/sports-betting</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/live-casino.html</loc>
+    <loc>https://betmaan.vercel.app/live-casino</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/reviews.html</loc>
+    <loc>https://betmaan.vercel.app/reviews</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/login.html</loc>
+    <loc>https://betmaan.vercel.app/login</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/signup.html</loc>
+    <loc>https://betmaan.vercel.app/signup</loc>
   </url>
 </urlset>
